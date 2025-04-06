@@ -3,6 +3,7 @@
 # SE-DAY5-Technical-Writing
 ##1. How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?
 Understanding your audience's expertise level is crucial in shaping how technical information is presented. For tech experts, you can use industry-specific jargon and delve into complex details without oversimplifying concepts. Conversely, when addressing regular folks, it's essential to use simpler language, analogies, and relatable examples to convey information effectively. Tailoring the presentation based on expertise fosters better understanding and engagement, ensuring that the information is both relevant and accessible.
+
 ##2. What are some strategies to tailor your content to different audience types?
 Strategies to tailor content include analyzing your audience's demographics, knowledge, and needs. Use surveys or feedback to assess their familiarity with the subject. For technical experts, provide in-depth analyses, data, and technical terms, while for non-experts, incorporate storytelling, analogies, and simplified language. Additionally, consider the format; use detailed reports for experts and visually engaging presentations or FAQs for a general audience.
 ##3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
